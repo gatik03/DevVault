@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+**/.env
+
+# Database files
+db.sqlite3
+*.sqlite3
+
+# Uploaded files and generated assets
+media/
+staticfiles/
+
+# Editor configuration
+.vscode/
